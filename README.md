@@ -1,0 +1,1 @@
+Page desine to Scan a QR code for Frontend monitor web pages
